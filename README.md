@@ -8,27 +8,27 @@ global-infrastructure-reference-architecture/<br>
 ├── docker/<br>
 │   └── Dockerfile<br>
 │<br>
-├── src/
-│   ├── app.py (or index.ts / main.go)
-│   └── health.py
-│
-├── tests/
-│   └── test_app.py
-│
-├── monitoring/
-│   ├── metrics.py
-│   └── logging_config.py
-│
-├── load-tests/
-│   └── benchmark.js
-│
-├── docs/
-│   ├── architecture.md
-│   ├── architecture-diagram.png
-│   ├── threat-model.md
-│   ├── operational-playbook.md
-│   ├── scalability.md
-│   └── rollback-strategy.md
-│
-├── README.md
-└── LICENSE
+├── src/<br>
+│   ├── app.py (or index.ts / main.go)<br>
+│   └── health.py<br>
+│<br>
+├── tests/<br>
+│   └── test_app.py<br>
+│<br>
+├── monitoring/<br>
+│   ├── metrics.py<br>
+│   └── logging_config.py<br>
+│<br>
+├── load-tests/<br>
+│   └── benchmark.js<br>
+│<br>
+├── docs/<br>
+│   ├── architecture.md<br>
+│   ├── architecture-diagram.png<br>
+│   ├── threat-model.md<br>
+│   ├── operational-playbook.md<br>
+│   ├── scalability.md<br>
+│   └── rollback-strategy.md<br>
+│<br>
+├── README.md<br>
+└── LICENSE<br>
