@@ -1,13 +1,13 @@
 # global-infrastructure-reference-architecture
-global-infrastructure-reference-architecture/
-│
-├── .github/
-│   └── workflows/
-│       └── ci-pipeline.yml
-│
-├── docker/
-│   └── Dockerfile
-│
+global-infrastructure-reference-architecture/<br>
+│<br>
+├── .github/<br>
+│   └── workflows/<br>
+│       └── ci-pipeline.yml<br>
+│<br>
+├── docker/<br>
+│   └── Dockerfile<br>
+│<br>
 ├── src/
 │   ├── app.py (or index.ts / main.go)
 │   └── health.py
